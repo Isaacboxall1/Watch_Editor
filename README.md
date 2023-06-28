@@ -6,7 +6,7 @@ A simple Web Application that allows editing of the color of buttons, strap and 
 
 ## Demo
 
-"Watch Editor Will Go Here"
+[Find the Deployed Site Here](https://watch-editor.netlify.app/)
 ## Getting Started
 
 ### Prerequisites
@@ -42,4 +42,10 @@ npm build
 
 - [React Spring](https://www.react-spring.io/) - A spring-physics based animation library
 
+## Future Improvements
 
+- Add more watch models
+
+- Mobile responsiveness
+
+- Loading screen
